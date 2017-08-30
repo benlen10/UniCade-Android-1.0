@@ -14,7 +14,7 @@
 
 # Key Features
 
-- NOTE: See the [UniCade Mobile](https://github.com/benlen10/UniCade-Mobile-Android-Xamarin) repository for the complete feature list of most recent version Xaramin version of the Android application. 
+- NOTE: See the [UniCade Mobile](https://github.com/benlen10/UniCade-Mobile-Android-Xamarin) repository for the complete feature list of most recent version Xamarin version of the Android application. 
 
 ### Multi Console Support
 - UniCade Mobile supports up to 50 game consoles. View games by individual consoles or as unified list. 
@@ -36,8 +36,8 @@
 # Additional Features
 
 ### Local Database Backup Support
-- UniCade Mobile supports manually creating and  backups of your multi-console game library in human-readable XML format
+- UniCade Mobile supports manually creating and restoring backups of your multi-console game library in human-readable XML format
 
 ### Advanced Licensing Engine
-- UniCade Mobile supports additional preminum features with a valid UniCade license key.
- 
+- UniCade Mobile supports additional premium features with a valid UniCade license key.
+
